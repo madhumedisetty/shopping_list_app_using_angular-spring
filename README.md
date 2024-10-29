@@ -25,6 +25,13 @@ This is a full-stack shopping list application that allows users to manage their
 - Endpoint to filter items by category
 - Update purchased status of items
 
+## Screenshots
+
+![Screenshot 2024-10-29 172308](https://github.com/user-attachments/assets/dd53d941-cea0-45c2-820f-b931e3dbda1d)
+
+![Screenshot 2024-10-29 172245](https://github.com/user-attachments/assets/d63f9f68-99fd-4088-a534-d5dc73f5e89f)
+
+
 ## Getting Started
 
 ### Prerequisites
